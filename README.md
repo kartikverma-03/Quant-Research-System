@@ -23,7 +23,7 @@ It combines three things that make it unique:
 
 ## 🚀 Live Demo
 
-🔗 **[Open Quantivo →](https://your-app.streamlit.app)**
+🔗 **[Open Quantivo →](https://quantivo-research.streamlit.app)**
 
 Enter any stock ticker (e.g. `RELIANCE.NS`, `TCS.NS`, `AAPL`) and get a full research report in seconds.
 
